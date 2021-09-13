@@ -26,7 +26,25 @@
 *.a
 *.lib
 
+# CMakeList
+CMakeLists.txt
+.vscode
+.idea
+cmake-build-debug
+
 # Executables
 *.exe
 *.out
 *.app
+
+# Other
+.DS_Store
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
