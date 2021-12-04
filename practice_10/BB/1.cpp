@@ -57,7 +57,7 @@ int main() {
         for (int j = 0; j < n; j++)
            cout << d[i][j] << " ";
         cout << '\n';
-     }
+    }
                     
     return 0;
 }

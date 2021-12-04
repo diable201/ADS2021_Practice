@@ -26,7 +26,7 @@ void merge(int l, int m, int r) {
             a[k] = R[uk2];
             uk2++;
         }
-         k++;
+        k++;
     }
 
     while (uk1 < n1) {
