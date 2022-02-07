@@ -1,2 +1,2 @@
-# ADS2021_Practice
+# ADS2021 Practice
 Codes from practice lessons
