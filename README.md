@@ -1,2 +1,2 @@
 # ADS2021 Practice
-Codes from practice lessons fall 2021
+Codes from practice lessons
