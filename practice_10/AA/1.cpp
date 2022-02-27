@@ -55,13 +55,11 @@ int main() {
     cout << d[x][y] << '\n';
     rec(x, y);
 
-    /*
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < n; j++) {
             cout << d[i][j] << " ";
         }
         cout << endl;
     }
-    */
     return 0;
 }
